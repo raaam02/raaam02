@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @raaam02
-- 👀 I’m interested in java
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me - insta id @raaam.02
+- 👋 Hey, I'm @raaam02.
+- 👀 Java fan venturing into Full Stack Development.
+- 🌱 Juggling with HTML, CSS, JavaScript, and PHP – building websites on the fly!
+- 💼 Ready to team up for web dev fun as an intermediate explorer.
+- 🔗 DM me: [@raaam.02](https://www.instagram.com/raaam.02/)
+- 🚀 Peep into my code journey: [GitHub/@raaam02](https://github.com/raaam02)
+- 🔄 Up for forking and collaborating on cool projects. Let's code together!
