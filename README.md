@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ram - Ram Prajapati</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaam02&label=Profile%20views&color=0e75b6&style=flat" alt="raaam02" /> </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
-<p align="left"> <a href="https://twitter.com/raaam_02" target="blank"><img src="https://img.shields.io/twitter/follow/raaam_02?logo=twitter&style=for-the-badge" alt="raaam_02" /></a> </p>
 
 - 🔭 I’m currently working on Admin Side Configuration [Reate-State Website](https://raaam02.github.io/NinjaQR/real-state/)
 
-- 🌱 I’m currently learning MERN **Reac.js**
+- 🌱 I’m currently learning MERN **Reac.js**    
 
 - 👨‍💻 All of my projects are available at [https://raaam02.github.io/NinjaQR](https://raaam02.github.io/NinjaQR)
 
 - 📫 How to reach me **prajapatiram983@gmail.com**
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaam02&label=Profile%20views&color=0e75b6&style=flat" alt="raaam02" /> </p>
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <!-- Gradient hr -->
  
