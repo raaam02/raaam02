@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
 
-- 🔭 Recently Completed this project [Reate-State Website](https://raaam.000.pe/)
+- 🔭 Recently Completed this project <a href="https://raaam.000.pe/" target="_blank">Reate-State Website</a>
 
 - 🌱 I’m currently learning MERN **Reac.js**    
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raaam_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raaam_02" height="30" width="40" /></a>
+<a href="https://twitter.com/raaam_02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raaam_02" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramdyal-prajapati" height="30" width="40" /></a>
 </p>
 
