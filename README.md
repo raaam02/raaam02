@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
 
-- 🔭 I’m currently working on Admin Side Configuration [Reate-State Website](https://raaam.000.pe/)
+- 🔭 Recently Completed this project [Reate-State Website](https://raaam.000.pe/)
 
 - 🌱 I’m currently learning MERN **Reac.js**    
 
