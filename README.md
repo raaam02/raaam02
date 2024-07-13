@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning MERN **Reac.js**    
 
-- 👨‍💻 All of my projects are available at [https://raaam02.github.io/NinjaQR](https://raaam02.github.io/NinjaQR)
+- 👨‍💻 One of my Fronted Based project [https://raaam02.github.io/NinjaQR](https://raaam02.github.io/NinjaQR)
 
 - 📫 How to reach me **prajapatiram983@gmail.com**
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaam02&label=Profile%20views&color=0e75b6&style=flat" alt="raaam02" /> </p>
