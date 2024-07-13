@@ -6,7 +6,7 @@
 
 - 🔭 Recently Completed this project <a href="https://raaam.000.pe/" target="_blank">Reate-State Website</a>
 
-- 🌱 I’m currently learning MERN **Reac.js**    
+- 🌱 I’m currently learning MERN **React.js**    
 
 - 👨‍💻 One of my Fronted Based project [https://raaam02.github.io/NinjaQR](https://raaam02.github.io/NinjaQR)
 
