@@ -5,7 +5,7 @@
 
 - 🏣 Working as a Software Developer at Logical Wings Infoweb Pvt. Ltd.
 
-- 🔭 Recently Completed this project <a href="https://raaam.000.pe/" target="_blank">Reate-State Website</a>
+- 🔭 Recently Completed this project <a href="https://raaam.000.pe/" target="_blank">Real-State Website</a>
 
 - 🌱 I’m currently learning MERN **React.js**    
 
