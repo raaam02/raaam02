@@ -5,7 +5,7 @@
 
 - 🏣 Working as a Software Developer at Logical Wings Infoweb Pvt. Ltd.
 
-- 🔭 Recently Completed this project <a href="https://raaam.000.pe/" target="_blank">Real-State Website</a>
+- 🔭 Recently Completed this project <a href="https://form.emoicons.com" target="_blank">Real-State Website</a>
 
 - 🌱 I’m currently learning MERN **React.js**    
 
@@ -94,9 +94,5 @@
 <p><a href="https://www.buymeacoffee.com/ram02" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ram02" /></a></p><br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <!-- Gradient hr -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaam02&show_icons=true&locale=en&layout=compact" alt="raaam02" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raaam02&show_icons=true&locale=en" alt="raaam02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaam02&" alt="raaam02" /></p>
