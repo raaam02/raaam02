@@ -10,7 +10,6 @@
 - 💼 Full Stack Software Engineer at **LogicalWings InfoWeb Pvt. Ltd.**
 - 🚀 Building enterprise HRMS and Government Subsidy platforms
 - 🤖 Creator of **Formu.AI** – AI-powered Form Builder SaaS
-- ⚡ 610+ Git commits • 58K+ LOC • 1,878 file operations
 - 🔌 Built 40+ REST APIs and 100+ React screens/components
 - 🏢 Contributed to software used by 500+ HRMS users
 - 👨‍🌾 Built features supporting 300,000+ farmers
@@ -28,9 +27,6 @@ Live: https://form.emoicons.com
 ## 📈 Engineering Impact
 
 - 2+ Years Professional Experience
-- 610+ Git Commits
-- 58K+ Lines of Production Code
-- 1,878 File Operations
 - 40+ REST APIs
 - 100+ React Screens & Components
 - Enterprise HRMS Platform
