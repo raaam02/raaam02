@@ -34,7 +34,7 @@
 ### 🤖 [Formu.AI](https://form.xram.in) — AI-Powered Form Builder SaaS
 > Generate production-ready forms, validation schemas, and interactive widgets from natural-language prompts.
 
-- **Stack:** Turborepo • Next.js 16 (App Router) • JavaScript • TypeScript • tRPC • PostgreSQL • Drizzle ORM • Redis • Docker • Auth.js • Google Gemini API
+- **Stack:** Turborepo • Next.js 16 (App Router) • TypeScript • tRPC • PostgreSQL • Drizzle ORM • Redis • Docker • Auth.js • Google Gemini API
 - **Key Features:** Dynamic Zod schema generation, visual drag-and-drop builder, rate limiting via Redis, analytics dashboard, Telegram webhooks & public sharing.
 - **Demo:** [form.xram.in](https://form.xram.in)
 
@@ -44,7 +44,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, Motion, TanStack Router, Expo, React Native |
+| **Frontend** | React 19, Next.js 16 (App Router), JavaScript, TypeScript, Tailwind CSS v4, Motion, TanStack Router, Expo, React Native |
 | **Backend** | Node.js, Express.js, tRPC, REST APIs, Auth.js, Stateful JWT Sessions |
 | **Databases & ORMs** | PostgreSQL, MySQL, Redis, Drizzle ORM, Sequelize |
 | **Tooling & Architecture** | Turborepo, Docker, Zod, Git, GitHub, Postman, Swagger, Scalar |
