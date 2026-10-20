@@ -36,7 +36,7 @@
 
 - **Stack:** Turborepo • Next.js 16 (App Router) • TypeScript • tRPC • PostgreSQL • Drizzle ORM • Redis • Docker • Auth.js • Google Gemini API
 - **Key Features:** Dynamic Zod schema generation, visual drag-and-drop builder, rate limiting via Redis, analytics dashboard, Telegram webhooks & public sharing.
-- **Demo:** [form.xram.in](https://form.xram.in)
+- **Live:** [form.xram.in](https://form.xram.in)
 
 ---
 
