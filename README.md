@@ -13,7 +13,7 @@
 
 - 💼 **Full Stack Software Engineer** at **LogicalWings InfoWeb Pvt. Ltd.**
 - 🏛️ Engineering enterprise **HRMS** platforms and **Government Subsidy** systems with high-volume data workflows.
-- 🤖 Creator of **[Formu.AI](https://form.xram.in)** – An AI-powered Form Builder SaaS built with Turborepo & Next.js.
+- 🤖 Creator of **[Form.xram.in](https://form.xram.in)** – An AI-powered Form Builder SaaS built with Turborepo & Next.js.
 - ⚡ Focused on **scalable frontend architecture**, **type-safe backend APIs**, and **database performance optimization**.
 - 🌱 Diving deep into **System Design, Distributed Systems, Docker, & Database Internals**.
 
